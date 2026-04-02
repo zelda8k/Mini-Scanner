@@ -72,7 +72,7 @@ Input:
 Resultados possivelmente mostrados no terminal:
 
 - `[!] Possivel Sql Injection`
-- `[! Possivel XSS: ...]`
+- `[!] Possivel XSS: ...]`
 - `[!] Falta X-Frame-Options`
 - `[!] Falta CSP`
 - `[!] Falta X-XSS-Protection`
