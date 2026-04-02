@@ -87,15 +87,6 @@ Resultados possivelmente mostrados no terminal:
 
 ---
 
-## 📚 Melhorias sugeridas
-
-- Tornar `MenuStart` com indicadores UX (entradas repetidas, validação, suporte HTTPS)
-- Adicionar timeout e retry em requisições
-- Capturar status code e logs detalhados (em arquivo ou JSON)
-- Adicionar threads/goroutines para scan paralelo
-
----
-
 ## 📝 Arquivos
 
 - `main.go` (código principal)
